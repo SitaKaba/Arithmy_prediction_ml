@@ -8,6 +8,7 @@ This repository implements a robust, production‑style workflow on the **UCI He
 - Model interpretability (permutation importance, SHAP optional)
 - Streamlit app for interactive exploration & inference
 - Reproducible environment & simple commands
+My app : https://arithmypredictionml-ltuvmrjsjinyy8vb8sxngd.streamlit.app
 
 ## Quickstart
 
